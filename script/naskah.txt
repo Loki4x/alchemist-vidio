@@ -1,0 +1,45 @@
+Halo teman-teman! Pernah nggak sih kamu belajar beberapa metode trading sekaligus, tapi malah bingung cara menyatukannya? Satu metode bilang begini, metode lain bilang begitu.
+
+Di sinilah metode Alchemist hadir. Alchemist adalah metode yang mencampurkan beberapa metode lain agar menjadi satu padu untuk menganalisa suatu market. Jadi kita tidak memakai metode itu satu per satu, melainkan menggabungkannya menjadi satu alur analisa yang utuh.
+
+Ada empat metode yang dicampur di dalam Alchemist, dan masing-masing punya peran sendiri.
+
+Pertama, MSNR, yang berperan sebagai entry POI. MSNR membantu kita menemukan titik harga presisi tempat harga pernah menolak dengan kuat. Titik inilah yang kita jadikan lokasi untuk mencari peluang entry.
+
+Kedua, ICT, yang berperan sebagai kill zones. Dari ICT kita memakai konsep kill zones, yaitu waktu-waktu tertentu saat pasar paling aktif bergerak. Dengan begitu kita tahu kapan sebaiknya fokus mencari setup, tidak hanya di mana.
+
+Ketiga, SMC, yang berperan sebagai structure. SMC membantu kita membaca struktur pasar, sehingga kita tahu arah besar pergerakan harga dan kapan struktur itu berubah.
+
+Keempat, LIT, yang berperan sebagai liquidity dan structure. LIT membantu kita melihat di mana likuiditas berkumpul, dan bagaimana likuiditas itu berhubungan dengan struktur pasar.
+
+Keempat metode ini saling melengkapi. Tapi supaya kita punya fondasi yang kuat, kita mulai dari yang pertama: MSNR, karena dari sinilah kita menentukan titik entry-nya.
+
+Banyak trader terjebak di cara konvensional, yaitu menebak-nebak dengan menandai area support dan resistance yang lebar dan tidak pasti. Padahal, setiap pergerakan dan penolakan harga meninggalkan jejak yang sangat spesifik.
+
+Di sinilah metode MSNR, atau Malaysian Support and Resistance, hadir. Sistem ini membantu kamu memetakan pergerakan harga secara presisi, berdasarkan struktur pasar yang sebenarnya.
+
+MSNR bukan sekadar untuk menebak area pantulan. Fokus utamanya adalah titik-titik pantulan ekstrem atau extreme bounce points. Kalau kamu menggunakannya dengan benar, pasar tidak lagi terlihat seperti area abu-abu, tetapi sebagai titik-titik harga tunggal yang tajam dan berpeluang tinggi.
+
+Dengan metode ini, kamu akan terbantu dalam tiga hal. Pertama, melihat level penolakan harga yang sesungguhnya dengan lebih jelas. Kedua, menemukan titik entry yang sangat presisi dengan risiko yang terukur. Ketiga, menghindari kebingungan dalam menentukan di mana harga akan benar-benar bereaksi.
+
+Sebelum masuk lebih jauh, ada beberapa istilah penting yang harus kamu ketahui.
+
+Istilah pertama adalah POI, atau Point of Interest. POI adalah jejak ekstrem yang ditinggalkan oleh pasar. Ini bukan sekadar area lebar yang diarsir, melainkan satu titik harga pasti tempat harga pernah mengalami rejection kuat dan berbalik arah di masa lalu. “Memori” benturan keras inilah yang membuat titik tersebut menarik untuk kita jadikan peluang entry di masa depan.
+
+Ada beberapa jenis POI:
+
+Resistance (Classic A): titik puncak tajam yang secara visual menyerupai huruf A.
+Support (Classic V): titik lembah tajam yang secara visual menyerupai huruf V.
+SBR, Support Become Resistance: level support lama yang sudah ditembus dan kini bertindak sebagai resistance baru.
+RBS, Resistance Become Support: kebalikannya, level resistance lama yang sudah ditembus dan kini menjadi support baru.
+QM, Quasimodo: pola struktur harga yang menunjukkan manipulasi atau pergeseran struktur pasar.
+OCL, Open Close Level: level harga presisi yang diambil dari titik pembukaan (open) dan penutupan (close) pada candlestick.
+
+Istilah kedua adalah AOI, atau Area of Interest. Dalam pergerakan harga, institusi besar dan algoritma pasar tidak pernah menempatkan pesanan secara sembarangan. Mereka meninggalkan jejak yang jelas di area-area yang memiliki ketidakseimbangan (imbalance) atau kumpulan pesanan besar. Area inilah yang kita sebut AOI.
+
+Jenis-jenis AOI antara lain:
+
+Order Block (OB): candlestick terakhir yang berlawanan arah sebelum terjadi pergerakan impulsif yang merusak struktur pasar (break of structure). Area ini diyakini sebagai tempat institusi mengakumulasi atau mendistribusikan pesanan besar mereka sebelum harga bergerak cepat.
+Breaker Block (BB): order block yang gagal menahan harga dan tertembus oleh pergerakan impulsif. Setelah tertembus, fungsinya berbalik arah. Misalnya, OB penahan harga turun yang tertembus akan menjadi resistance kuat saat harga kembali naik.
+FVG, Fair Value Gap: area ketidakseimbangan yang terbentuk oleh pergerakan harga yang sangat cepat. Secara visual, ini adalah celah kosong pada grafik dari tiga susunan candlestick, di mana tidak ada titik temu antara sumbu (wick) candle pertama dan candle ketiga. Pasar cenderung kembali ke area ini untuk “menyeimbangkan” kembali harga.
+IFVG, Inversion Fair Value Gap: FVG yang gagal menahan harga dan tertembus sepenuhnya oleh candlestick. FVG yang tertembus ini kemudian berubah sifat dan berbalik fungsi, mirip dengan konsep support become resistance, namun diterapkan pada FVG.

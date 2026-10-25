@@ -1,0 +1,25 @@
+{
+  "name": "alchemist-video",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Video edukasi Metode Alchemist (MSNR, POI, AOI) dengan Remotion",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render Alchemist out/Alchemist.mp4 --codec=h264 --crf=18",
+    "still": "remotion still Alchemist out/still.png --frame=1000",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.537",
+    "@remotion/google-fonts": "4.0.537",
+    "@remotion/media": "4.0.537",
+    "@remotion/transitions": "4.0.537",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.537"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}
