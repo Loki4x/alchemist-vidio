@@ -2237,66 +2237,66 @@
 {
 "w": "Resistance:",
 "start": 199.968,
-"end": 200.67
+"end": 200.66
 },
 {
 "w": "level",
-"start": 200.67,
-"end": 201.26
+"start": 200.66,
+"end": 201.07
 },
 {
 "w": "support",
-"start": 201.26,
-"end": 201.659
+"start": 201.07,
+"end": 201.3
 },
 {
 "w": "lama",
-"start": 201.878,
-"end": 202.34
+"start": 201.3,
+"end": 201.659
 },
 {
 "w": "yang",
-"start": 202.34,
-"end": 202.495
+"start": 201.878,
+"end": 202.035
 },
 {
 "w": "sudah",
-"start": 202.495,
-"end": 202.76
+"start": 202.035,
+"end": 202.495
 },
 {
 "w": "ditembus",
-"start": 202.76,
-"end": 203.36
+"start": 202.495,
+"end": 203.115
 },
 {
 "w": "dan",
-"start": 203.36,
-"end": 203.62
+"start": 203.115,
+"end": 203.355
 },
 {
 "w": "kini",
-"start": 203.62,
-"end": 203.955
+"start": 203.355,
+"end": 203.675
 },
 {
 "w": "bertindak",
-"start": 203.955,
-"end": 204.645
+"start": 203.675,
+"end": 204.235
 },
 {
 "w": "sebagai",
-"start": 204.645,
-"end": 205.075
+"start": 204.235,
+"end": 204.99
 },
 {
 "w": "resistance",
-"start": 205.075,
-"end": 205.83
+"start": 204.99,
+"end": 205.82
 },
 {
 "w": "baru.",
-"start": 205.83,
+"start": 205.82,
 "end": 206.207
 },
 {
@@ -2312,61 +2312,61 @@
 {
 "w": "Become",
 "start": 208.218,
-"end": 208.58
+"end": 209.2
 },
 {
 "w": "Support:",
-"start": 208.58,
-"end": 209.005
-},
-{
-"w": "kebalikannya,",
-"start": 209.005,
+"start": 209.2,
 "end": 209.79
 },
 {
-"w": "level",
+"w": "kebalikannya,",
 "start": 210.055,
 "end": 210.673
 },
 {
-"w": "resistance",
+"w": "level",
 "start": 210.943,
-"end": 211.735
+"end": 211.415
+},
+{
+"w": "resistance",
+"start": 211.415,
+"end": 211.995
 },
 {
 "w": "lama",
-"start": 211.735,
-"end": 212.035
-},
-{
-"w": "yang",
-"start": 212.035,
+"start": 211.995,
 "end": 212.325
 },
 {
-"w": "sudah",
+"w": "yang",
 "start": 212.325,
-"end": 212.645
+"end": 212.415
+},
+{
+"w": "sudah",
+"start": 212.415,
+"end": 212.9
 },
 {
 "w": "ditembus",
-"start": 212.645,
-"end": 213.235
+"start": 212.9,
+"end": 213.255
 },
 {
 "w": "dan",
-"start": 213.235,
-"end": 213.49
+"start": 213.255,
+"end": 213.53
 },
 {
 "w": "kini",
-"start": 213.49,
-"end": 213.795
+"start": 213.53,
+"end": 213.88
 },
 {
 "w": "menjadi",
-"start": 213.795,
+"start": 213.88,
 "end": 214.425
 },
 {
@@ -2867,671 +2867,861 @@
 {
 "w": "ini",
 "start": 264.67,
-"end": 265.08
+"end": 264.82
 },
 {
 "w": "diyakini",
-"start": 265.08,
-"end": 265.92
+"start": 264.82,
+"end": 265.41
 },
 {
 "w": "sebagai",
-"start": 265.92,
-"end": 266.62
+"start": 265.41,
+"end": 265.93
 },
 {
 "w": "tempat",
-"start": 266.62,
-"end": 267.075
+"start": 265.93,
+"end": 266.26
 },
 {
 "w": "institusi",
-"start": 267.075,
-"end": 267.799
+"start": 266.26,
+"end": 266.87
 },
 {
 "w": "mengakumulasi",
-"start": 267.928,
-"end": 269.205
+"start": 266.87,
+"end": 267.799
 },
 {
 "w": "atau",
-"start": 269.205,
-"end": 269.695
+"start": 267.928,
+"end": 268.22
 },
 {
 "w": "mendistribusikan",
-"start": 269.695,
-"end": 271.02
+"start": 268.22,
+"end": 269.08
 },
 {
 "w": "pesanan",
-"start": 271.02,
-"end": 271.674
+"start": 269.08,
+"end": 269.545
 },
 {
 "w": "besar",
+"start": 269.545,
+"end": 269.8
+},
+{
+"w": "mereka",
+"start": 269.8,
+"end": 270.235
+},
+{
+"w": "sebelum",
+"start": 270.235,
+"end": 270.665
+},
+{
+"w": "harga",
+"start": 270.665,
+"end": 270.885
+},
+{
+"w": "bergerak",
+"start": 270.885,
+"end": 271.385
+},
+{
+"w": "cepat.",
+"start": 271.385,
+"end": 271.674
+},
+{
+"w": "Breaker",
 "start": 272.014,
 "end": 272.341
 },
 {
-"w": "mereka",
-"start": 272.569,
-"end": 273.331
-},
-{
-"w": "sebelum",
-"start": 273.609,
-"end": 274.111
-},
-{
-"w": "harga",
-"start": 274.424,
-"end": 274.995
-},
-{
-"w": "bergerak",
-"start": 274.995,
-"end": 275.72
-},
-{
-"w": "cepat.",
-"start": 275.72,
-"end": 276.235
-},
-{
-"w": "Breaker",
-"start": 276.235,
-"end": 276.81
-},
-{
 "w": "Block",
-"start": 276.81,
-"end": 277.01
+"start": 272.569,
+"end": 272.825
 },
 {
 "w": "(BB):",
-"start": 277.01,
-"end": 277.455
+"start": 272.825,
+"end": 273.331
 },
 {
 "w": "order",
-"start": 277.455,
-"end": 278.075
+"start": 273.609,
+"end": 273.91
 },
 {
 "w": "block",
-"start": 278.075,
-"end": 278.305
+"start": 273.91,
+"end": 274.111
 },
 {
 "w": "yang",
-"start": 278.305,
-"end": 278.563
+"start": 274.424,
+"end": 274.57
 },
 {
 "w": "gagal",
-"start": 278.781,
-"end": 279.12
+"start": 274.57,
+"end": 275.01
 },
 {
 "w": "menahan",
-"start": 279.12,
-"end": 279.753
+"start": 275.01,
+"end": 275.625
 },
 {
 "w": "harga",
+"start": 275.625,
+"end": 275.965
+},
+{
+"w": "dan",
+"start": 275.965,
+"end": 276.22
+},
+{
+"w": "tertembus",
+"start": 276.22,
+"end": 276.81
+},
+{
+"w": "oleh",
+"start": 276.81,
+"end": 277.185
+},
+{
+"w": "pergerakan",
+"start": 277.185,
+"end": 277.97
+},
+{
+"w": "impulsif.",
+"start": 277.97,
+"end": 278.563
+},
+{
+"w": "Setelah",
+"start": 278.781,
+"end": 279.265
+},
+{
+"w": "tertembus,",
+"start": 279.265,
+"end": 279.753
+},
+{
+"w": "fungsinya",
 "start": 279.896,
 "end": 280.325
 },
 {
-"w": "dan",
+"w": "berbalik",
 "start": 280.325,
-"end": 280.415
+"end": 280.685
 },
 {
-"w": "tertembus",
-"start": 280.415,
+"w": "arah.",
+"start": 280.685,
 "end": 281.019
 },
 {
-"w": "oleh",
+"w": "Misalnya,",
 "start": 281.289,
 "end": 281.81
 },
 {
-"w": "pergerakan",
+"w": "OB",
 "start": 282.033,
-"end": 283.135
+"end": 282.44
 },
 {
-"w": "impulsif.",
-"start": 283.135,
+"w": "penahan",
+"start": 282.44,
+"end": 282.8
+},
+{
+"w": "harga",
+"start": 282.8,
+"end": 283.155
+},
+{
+"w": "turun",
+"start": 283.155,
+"end": 283.605
+},
+{
+"w": "yang",
+"start": 283.605,
 "end": 283.795
 },
 {
-"w": "Setelah",
+"w": "tertembus",
 "start": 283.795,
-"end": 284.5
+"end": 284.29
 },
 {
-"w": "tertembus,",
-"start": 284.5,
-"end": 285.28
+"w": "akan",
+"start": 284.29,
+"end": 284.63
 },
 {
-"w": "fungsinya",
-"start": 285.28,
+"w": "menjadi",
+"start": 284.63,
+"end": 285.145
+},
+{
+"w": "resistance",
+"start": 285.145,
+"end": 285.85
+},
+{
+"w": "kuat",
+"start": 285.85,
 "end": 285.975
 },
 {
-"w": "berbalik",
+"w": "saat",
 "start": 285.975,
-"end": 286.665
+"end": 286.19
 },
 {
-"w": "arah.",
-"start": 286.665,
+"w": "harga",
+"start": 286.19,
+"end": 286.555
+},
+{
+"w": "kembali",
+"start": 286.555,
+"end": 287.06
+},
+{
+"w": "naik.",
+"start": 287.06,
 "end": 287.234
 },
 {
-"w": "Misalnya,",
+"w": "FVG,",
 "start": 287.513,
 "end": 287.843
 },
 {
-"w": "OB",
-"start": 288.066,
-"end": 288.39
-},
-{
-"w": "penahan",
-"start": 288.39,
-"end": 288.906
-},
-{
-"w": "harga",
-"start": 289.153,
-"end": 289.565
-},
-{
-"w": "turun",
-"start": 289.565,
-"end": 289.95
-},
-{
-"w": "yang",
-"start": 289.95,
-"end": 290.276
-},
-{
-"w": "tertembus",
-"start": 290.49,
-"end": 291.185
-},
-{
-"w": "akan",
-"start": 291.185,
-"end": 291.605
-},
-{
-"w": "menjadi",
-"start": 291.605,
-"end": 291.98
-},
-{
-"w": "resistance",
-"start": 291.98,
-"end": 292.76
-},
-{
-"w": "kuat",
-"start": 292.76,
-"end": 293.11
-},
-{
-"w": "saat",
-"start": 293.11,
-"end": 293.25
-},
-{
-"w": "harga",
-"start": 293.25,
-"end": 293.72
-},
-{
-"w": "kembali",
-"start": 293.72,
-"end": 294.305
-},
-{
-"w": "naik.",
-"start": 294.305,
-"end": 294.463
-},
-{
-"w": "FVG,",
-"start": 294.782,
-"end": 295.697
-},
-{
 "w": "Fair",
-"start": 295.864,
-"end": 296.135
+"start": 288.066,
+"end": 288.305
 },
 {
 "w": "Value",
-"start": 296.135,
-"end": 296.675
+"start": 288.305,
+"end": 288.62
 },
 {
 "w": "Gap:",
-"start": 296.675,
-"end": 296.905
+"start": 288.62,
+"end": 288.71
 },
 {
 "w": "area",
-"start": 296.905,
-"end": 297.565
+"start": 288.71,
+"end": 288.906
 },
 {
 "w": "ketidakseimbangan",
-"start": 297.565,
-"end": 299.215
+"start": 289.153,
+"end": 290.276
 },
 {
 "w": "yang",
-"start": 299.215,
-"end": 299.458
+"start": 290.49,
+"end": 290.835
 },
 {
 "w": "terbentuk",
-"start": 299.601,
-"end": 300.36
+"start": 290.835,
+"end": 291.41
 },
 {
 "w": "oleh",
-"start": 300.36,
-"end": 300.635
+"start": 291.41,
+"end": 291.965
 },
 {
 "w": "pergerakan",
-"start": 300.635,
-"end": 301.45
+"start": 291.965,
+"end": 292.76
 },
 {
 "w": "harga",
-"start": 301.45,
-"end": 301.909
+"start": 292.76,
+"end": 293.25
 },
 {
 "w": "yang",
+"start": 293.25,
+"end": 293.505
+},
+{
+"w": "sangat",
+"start": 293.505,
+"end": 294.03
+},
+{
+"w": "cepat.",
+"start": 294.03,
+"end": 294.463
+},
+{
+"w": "Secara",
+"start": 294.782,
+"end": 295.3
+},
+{
+"w": "visual,",
+"start": 295.3,
+"end": 295.697
+},
+{
+"w": "ini",
+"start": 295.864,
+"end": 296.31
+},
+{
+"w": "adalah",
+"start": 296.31,
+"end": 296.655
+},
+{
+"w": "celah",
+"start": 296.655,
+"end": 296.905
+},
+{
+"w": "kosong",
+"start": 296.905,
+"end": 297.355
+},
+{
+"w": "pada",
+"start": 297.355,
+"end": 297.61
+},
+{
+"w": "grafik",
+"start": 297.61,
+"end": 297.8
+},
+{
+"w": "dari",
+"start": 297.8,
+"end": 298.245
+},
+{
+"w": "tiga",
+"start": 298.245,
+"end": 298.43
+},
+{
+"w": "susunan",
+"start": 298.43,
+"end": 298.985
+},
+{
+"w": "candlestick,",
+"start": 298.985,
+"end": 299.458
+},
+{
+"w": "di",
+"start": 299.601,
+"end": 299.83
+},
+{
+"w": "mana",
+"start": 299.83,
+"end": 299.955
+},
+{
+"w": "tidak",
+"start": 299.955,
+"end": 300.365
+},
+{
+"w": "ada",
+"start": 300.365,
+"end": 300.635
+},
+{
+"w": "titik",
+"start": 300.635,
+"end": 301.13
+},
+{
+"w": "temu",
+"start": 301.13,
+"end": 301.415
+},
+{
+"w": "antara",
+"start": 301.415,
+"end": 301.909
+},
+{
+"w": "sumbu",
 "start": 302.134,
 "end": 302.479
 },
 {
-"w": "sangat",
+"w": "(wick)",
 "start": 302.649,
+"end": 302.795
+},
+{
+"w": "candle",
+"start": 302.795,
 "end": 303.105
 },
 {
-"w": "cepat.",
+"w": "pertama",
 "start": 303.105,
-"end": 303.485
+"end": 303.495
 },
 {
-"w": "Secara",
-"start": 303.485,
-"end": 304.04
+"w": "dan",
+"start": 303.495,
+"end": 303.695
 },
 {
-"w": "visual,",
-"start": 304.04,
+"w": "candle",
+"start": 303.695,
+"end": 304.025
+},
+{
+"w": "ketiga.",
+"start": 304.025,
 "end": 304.437
 },
 {
-"w": "ini",
+"w": "Pasar",
 "start": 304.762,
-"end": 305.12
+"end": 305.105
 },
 {
-"w": "adalah",
-"start": 305.12,
-"end": 305.9
+"w": "cenderung",
+"start": 305.105,
+"end": 305.88
 },
 {
-"w": "celah",
-"start": 305.9,
-"end": 306.46
+"w": "kembali",
+"start": 305.88,
+"end": 306.43
 },
 {
-"w": "kosong",
-"start": 306.46,
+"w": "ke",
+"start": 306.43,
+"end": 306.52
+},
+{
+"w": "area",
+"start": 306.52,
 "end": 306.915
 },
 {
-"w": "pada",
+"w": "ini",
 "start": 306.915,
-"end": 307.56
+"end": 307.33
 },
 {
-"w": "grafik",
-"start": 307.56,
-"end": 307.935
+"w": "untuk",
+"start": 307.33,
+"end": 307.77
 },
 {
-"w": "dari",
-"start": 307.935,
+"w": "“menyeimbangkan”",
+"start": 307.77,
 "end": 308.513
 },
 {
-"w": "tiga",
+"w": "kembali",
 "start": 308.887,
 "end": 309.155
 },
 {
-"w": "susunan",
+"w": "harga.",
 "start": 309.404,
-"end": 310.005
+"end": 309.74
 },
 {
-"w": "candlestick,",
-"start": 310.005,
+"w": "IFVG,",
+"start": 309.74,
 "end": 310.605
 },
 {
-"w": "di",
+"w": "Inversion",
 "start": 310.957,
-"end": 311.13
+"end": 311.705
 },
 {
-"w": "mana",
-"start": 311.13,
-"end": 311.55
-},
-{
-"w": "tidak",
-"start": 311.55,
+"w": "Fair",
+"start": 311.705,
 "end": 312.01
 },
 {
-"w": "ada",
+"w": "Value",
 "start": 312.01,
-"end": 312.375
+"end": 312.53
 },
 {
-"w": "titik",
-"start": 312.375,
+"w": "Gap:",
+"start": 312.53,
 "end": 312.738
 },
 {
-"w": "temu",
+"w": "FVG",
 "start": 313.007,
 "end": 313.44
 },
 {
-"w": "antara",
+"w": "yang",
 "start": 313.44,
+"end": 313.735
+},
+{
+"w": "gagal",
+"start": 313.735,
 "end": 314.04
 },
 {
-"w": "sumbu",
+"w": "menahan",
 "start": 314.04,
-"end": 314.595
+"end": 314.605
 },
 {
-"w": "(wick)",
-"start": 314.595,
-"end": 314.84
-},
-{
-"w": "candle",
-"start": 314.84,
-"end": 315.37
-},
-{
-"w": "pertama",
-"start": 315.37,
-"end": 315.975
+"w": "harga",
+"start": 314.605,
+"end": 315.105
 },
 {
 "w": "dan",
-"start": 315.975,
-"end": 316.08
+"start": 315.105,
+"end": 315.195
 },
 {
-"w": "candle",
-"start": 316.08,
-"end": 316.715
+"w": "tertembus",
+"start": 315.195,
+"end": 315.595
 },
 {
-"w": "ketiga.",
-"start": 316.715,
+"w": "sepenuhnya",
+"start": 315.595,
+"end": 316.335
+},
+{
+"w": "oleh",
+"start": 316.335,
+"end": 316.73
+},
+{
+"w": "candlestick.",
+"start": 316.73,
 "end": 317.325
 },
 {
-"w": "Pasar",
+"w": "FVG",
 "start": 317.639,
-"end": 318.025
+"end": 318.255
 },
 {
-"w": "cenderung",
-"start": 318.025,
-"end": 318.415
+"w": "yang",
+"start": 318.255,
+"end": 318.405
 },
 {
-"w": "kembali",
-"start": 318.415,
-"end": 318.96
-},
-{
-"w": "ke",
-"start": 318.96,
-"end": 319.13
-},
-{
-"w": "area",
-"start": 319.13,
-"end": 319.585
+"w": "tertembus",
+"start": 318.405,
+"end": 318.855
 },
 {
 "w": "ini",
-"start": 319.585,
-"end": 319.92
+"start": 318.855,
+"end": 319.19
 },
 {
-"w": "untuk",
-"start": 319.92,
-"end": 320.225
+"w": "kemudian",
+"start": 319.19,
+"end": 319.59
 },
 {
-"w": "“menyeimbangkan”",
-"start": 320.225,
+"w": "berubah",
+"start": 319.59,
+"end": 320.23
+},
+{
+"w": "sifat",
+"start": 320.23,
+"end": 320.505
+},
+{
+"w": "dan",
+"start": 320.505,
 "end": 320.705
 },
 {
-"w": "kembali",
+"w": "berbalik",
 "start": 320.705,
 "end": 321.215
 },
 {
-"w": "harga.",
+"w": "fungsi,",
 "start": 321.215,
 "end": 321.607
 },
 {
-"w": "IFVG,",
+"w": "mirip",
 "start": 321.967,
-"end": 322.845
+"end": 322.195
 },
 {
-"w": "Inversion",
-"start": 322.845,
-"end": 323.535
+"w": "dengan",
+"start": 322.195,
+"end": 322.63
 },
 {
-"w": "Fair",
-"start": 323.535,
+"w": "konsep",
+"start": 322.63,
+"end": 322.95
+},
+{
+"w": "support",
+"start": 322.95,
+"end": 323.38
+},
+{
+"w": "become",
+"start": 323.38,
 "end": 323.72
 },
 {
-"w": "Value",
+"w": "resistance,",
 "start": 323.72,
-"end": 324.2
-},
-{
-"w": "Gap:",
-"start": 324.2,
 "end": 324.42
 },
 {
-"w": "FVG",
+"w": "namun",
 "start": 324.697,
-"end": 325.2
+"end": 325.165
 },
 {
-"w": "yang",
-"start": 325.2,
-"end": 325.595
+"w": "diterapkan",
+"start": 325.165,
+"end": 325.61
 },
 {
-"w": "gagal",
-"start": 325.595,
-"end": 325.835
+"w": "pada",
+"start": 325.61,
+"end": 326.175
 },
 {
-"w": "menahan",
-"start": 325.835,
+"w": "FVG.",
+"start": 326.175,
 "end": 326.544
 },
 {
-"w": "harga",
+"w": "Jadi,",
 "start": 326.903,
-"end": 327.14
-},
-{
-"w": "dan",
-"start": 327.14,
 "end": 327.412
 },
 {
-"w": "tertembus",
+"w": "MSNR",
 "start": 327.666,
-"end": 328.22
+"end": 328.225
 },
 {
-"w": "sepenuhnya",
-"start": 328.22,
+"w": "mengajak",
+"start": 328.225,
+"end": 328.54
+},
+{
+"w": "kita",
+"start": 328.54,
 "end": 328.97
 },
 {
-"w": "oleh",
+"w": "berhenti",
 "start": 328.97,
 "end": 329.425
 },
 {
-"w": "candlestick.",
+"w": "menebak",
 "start": 329.425,
-"end": 329.845
+"end": 329.68
 },
 {
-"w": "FVG",
-"start": 329.845,
-"end": 330.33
+"w": "area",
+"start": 329.68,
+"end": 330.18
 },
 {
 "w": "yang",
-"start": 330.33,
-"end": 330.635
+"start": 330.18,
+"end": 330.27
 },
 {
-"w": "tertembus",
-"start": 330.635,
-"end": 331.169
-},
-{
-"w": "ini",
-"start": 331.29,
-"end": 331.665
-},
-{
-"w": "kemudian",
-"start": 331.665,
-"end": 332.095
-},
-{
-"w": "berubah",
-"start": 332.095,
-"end": 332.905
-},
-{
-"w": "sifat",
-"start": 332.905,
-"end": 333.17
+"w": "lebar",
+"start": 330.27,
+"end": 330.6
 },
 {
 "w": "dan",
-"start": 333.17,
-"end": 333.385
+"start": 330.6,
+"end": 330.69
 },
 {
-"w": "berbalik",
-"start": 333.385,
-"end": 333.93
+"w": "mulai",
+"start": 330.69,
+"end": 330.865
 },
 {
-"w": "fungsi,",
-"start": 333.93,
-"end": 334.294
-},
-{
-"w": "mirip",
-"start": 334.601,
-"end": 334.945
-},
-{
-"w": "dengan",
-"start": 334.945,
-"end": 335.445
-},
-{
-"w": "konsep",
-"start": 335.445,
-"end": 336.0
-},
-{
-"w": "support",
-"start": 336.0,
-"end": 336.335
-},
-{
-"w": "become",
-"start": 336.335,
-"end": 336.905
-},
-{
-"w": "resistance,",
-"start": 336.905,
-"end": 337.798
-},
-{
-"w": "namun",
-"start": 338.069,
-"end": 338.79
-},
-{
-"w": "diterapkan",
-"start": 338.79,
-"end": 340.075
+"w": "fokus",
+"start": 330.865,
+"end": 331.169
 },
 {
 "w": "pada",
+"start": 331.29,
+"end": 331.655
+},
+{
+"w": "titik-titik",
+"start": 331.655,
+"end": 332.095
+},
+{
+"w": "harga",
+"start": 332.095,
+"end": 332.615
+},
+{
+"w": "yang",
+"start": 332.615,
+"end": 332.705
+},
+{
+"w": "presisi.",
+"start": 332.705,
+"end": 333.165
+},
+{
+"w": "Pahami",
+"start": 333.165,
+"end": 333.65
+},
+{
+"w": "dulu",
+"start": 333.65,
+"end": 333.74
+},
+{
+"w": "POI",
+"start": 333.74,
+"end": 334.294
+},
+{
+"w": "dan",
+"start": 334.601,
+"end": 334.79
+},
+{
+"w": "AOI",
+"start": 334.79,
+"end": 335.26
+},
+{
+"w": "beserta",
+"start": 335.26,
+"end": 335.625
+},
+{
+"w": "jenis-jenisnya,",
+"start": 335.625,
+"end": 336.35
+},
+{
+"w": "karena",
+"start": 336.35,
+"end": 336.89
+},
+{
+"w": "itulah",
+"start": 336.89,
+"end": 337.32
+},
+{
+"w": "fondasi",
+"start": 337.32,
+"end": 337.798
+},
+{
+"w": "untuk",
+"start": 338.069,
+"end": 338.415
+},
+{
+"w": "membaca",
+"start": 338.415,
+"end": 338.805
+},
+{
+"w": "pasar",
+"start": 338.805,
+"end": 338.96
+},
+{
+"w": "dengan",
+"start": 338.96,
+"end": 339.405
+},
+{
+"w": "lebih",
+"start": 339.405,
+"end": 339.685
+},
+{
+"w": "tajam.",
+"start": 339.685,
+"end": 340.075
+},
+{
+"w": "Sampai",
 "start": 340.075,
+"end": 340.225
+},
+{
+"w": "jumpa",
+"start": 340.225,
+"end": 340.575
+},
+{
+"w": "di",
+"start": 340.575,
 "end": 340.69
 },
 {
-"w": "FVG.",
+"w": "materi",
 "start": 340.69,
+"end": 341.145
+},
+{
+"w": "berikutnya!",
+"start": 341.145,
 "end": 341.734
 }
 ]

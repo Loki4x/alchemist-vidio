@@ -2,7 +2,6 @@ import React from 'react';
 import {AbsoluteFill} from 'remotion';
 import {C, MONO, SANS, rgba} from '../lib/theme';
 import {K} from '../lib/timeline';
-import {VO_END} from '../lib/consts';
 import {useT} from '../lib/time';
 import {Backdrop, Chip, Heading, InfoCard, Rise} from '../lib/ui';
 import {ChartPanel, Window} from './common';
@@ -46,7 +45,7 @@ const DefCard: React.FC<{at: number; color: string; head: string; body: string}>
 
 export const Aoi: React.FC = () => {
   const t = useT();
-  const END = VO_END + 2;
+  const END = K.S.outro + 1;
   return (
     <AbsoluteFill>
       <Backdrop />

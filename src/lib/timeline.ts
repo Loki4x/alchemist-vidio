@@ -10,7 +10,7 @@ const S = {
   focus: TT('MSNR bukan sekadar'),
   poi: TT('Sebelum masuk lebih jauh'),
   aoi: TT('Istilah kedua adalah AOI'),
-  outro: VO_END + 0.1,
+  outro: TT('Jadi MSNR mengajak kita'),
 };
 
 const methodsP1 = TT('Pertama MSNR', S.methods);
@@ -112,10 +112,10 @@ export const K = {
   ifvgFlip: TT('berubah sifat', ifvg),
   ifvgSbr: TT('support become resistance', ifvg),
   // closing
-  cMsnr: TT('MSNR mengajak kita', VO_END),
-  cPoint: TT('titik-titik harga yang presisi', VO_END),
-  cPoi: TT('POI dan AOI', VO_END),
-  cBye: TT('Sampai jumpa', VO_END),
+  cMsnr: TT('MSNR mengajak kita', S.outro),
+  cPoint: TT('titik-titik harga yang presisi', S.outro),
+  cPoi: TT('POI dan AOI', S.outro),
+  cBye: TT('Sampai jumpa', S.outro),
   // POI type sub-cues
   aPeak: TT('titik puncak tajam', tyA),
   aLetter: TT('huruf A', tyA),
@@ -144,7 +144,7 @@ export const SCENE_FRAMES: Record<SceneKey, number> = (() => {
   const out = {} as Record<SceneKey, number>;
   let prev = -1;
   SCENE_ORDER.forEach((k, idx) => {
-    let f = idx === 0 ? 0 : Math.round(Math.max(0, S[k] - (k === 'outro' ? 0 : LEAD)) * FPS);
+    let f = idx === 0 ? 0 : Math.round(Math.max(0, S[k] - LEAD) * FPS);
     if (f <= prev) f = prev + 60;
     out[k] = f;
     prev = f;

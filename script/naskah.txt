@@ -43,3 +43,5 @@ Order Block (OB): candlestick terakhir yang berlawanan arah sebelum terjadi perg
 Breaker Block (BB): order block yang gagal menahan harga dan tertembus oleh pergerakan impulsif. Setelah tertembus, fungsinya berbalik arah. Misalnya, OB penahan harga turun yang tertembus akan menjadi resistance kuat saat harga kembali naik.
 FVG, Fair Value Gap: area ketidakseimbangan yang terbentuk oleh pergerakan harga yang sangat cepat. Secara visual, ini adalah celah kosong pada grafik dari tiga susunan candlestick, di mana tidak ada titik temu antara sumbu (wick) candle pertama dan candle ketiga. Pasar cenderung kembali ke area ini untuk “menyeimbangkan” kembali harga.
 IFVG, Inversion Fair Value Gap: FVG yang gagal menahan harga dan tertembus sepenuhnya oleh candlestick. FVG yang tertembus ini kemudian berubah sifat dan berbalik fungsi, mirip dengan konsep support become resistance, namun diterapkan pada FVG.
+
+Jadi, MSNR mengajak kita berhenti menebak area yang lebar dan mulai fokus pada titik-titik harga yang presisi. Pahami dulu POI dan AOI beserta jenis-jenisnya, karena itulah fondasi untuk membaca pasar dengan lebih tajam. Sampai jumpa di materi berikutnya!

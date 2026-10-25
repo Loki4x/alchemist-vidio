@@ -1,9 +1,8 @@
 import raw from '../data/words.json';
-import closing from '../data/closing.json';
 
 export type Word = {w: string; start: number; end: number};
 
-export const WORDS: Word[] = [...(raw as Word[]), ...(closing as Word[])];
+export const WORDS: Word[] = raw as Word[];
 
 export const norm = (s: string): string => s.toLowerCase().replace(/[^a-z0-9]/g, '');
 
