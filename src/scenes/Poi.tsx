@@ -15,7 +15,7 @@ const ROWS: Row[] = [
   {code: 'SBR', sub: 'Support lama ditembus → jadi resistance', color: C.am, at: K.tySBR, illu: sbr(), first: K.sbrOld},
   {code: 'RBS', sub: 'Resistance lama ditembus → jadi support', color: C.sky, at: K.tyRBS, illu: rbs(), first: K.rbsOld},
   {code: 'QM · QUASIMODO', sub: 'Pergeseran struktur harga (MSS / CHoCH)', color: C.vi, at: K.tyQM, illu: qm(), first: K.qmPattern},
-  {code: 'OCL', sub: 'Level dari open & close candle', color: C.cy, at: K.tyOCL, illu: ocl(), first: K.oclPrecise},
+  {code: 'OCL', sub: 'Close candle = open candle berikutnya', color: C.cy, at: K.tyOCL, illu: ocl(), first: K.oclPrecise},
 ];
 
 const DEF = poiDef();

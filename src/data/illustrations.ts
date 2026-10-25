@@ -69,14 +69,18 @@ export const qm = (): Illu => ({
   ],
 });
 
+/**
+ * OC level: the close of one candle is exactly the open of the next same-direction candle
+ * (here two bullish candles in a row). The level sits at that junction, mid-move.
+ */
 export const ocl = (): Illu => ({
-  cs: withHL(seq([56, 52, 48, 55, 60, 58, 62, 59, 54, 50, 48.2, 53, 58]), {9: {l: 47.6}}),
-  yMin: 40, yMax: 68, extra: 2,
+  cs: withHL(seq([58, 54, 50, 46, 40, 44, 56, 62, 60, 55, 50, 44.3, 50, 57]), {10: {l: 43.4}}),
+  yMin: 32, yMax: 66, extra: 2,
   ann: [
-    {k: 'line', from: 1, p: 48, color: SKY, label: 'OC LEVEL', at: K.oclPrecise, dy: 32},
-    {k: 'tag', i: 1, p: 43.2, text: 'CLOSE', color: RO, at: K.oclClose - 0.3, size: 22, anchor: 'end'},
-    {k: 'tag', i: 2, p: 43.2, text: 'OPEN', color: EM, at: K.oclOpen, size: 22, anchor: 'start'},
-    {k: 'ring', i: 9, p: 48, color: SKY, at: K.oclClose + 1.2},
+    {k: 'line', from: 4, p: 44, color: SKY, label: 'OC LEVEL', at: K.oclPrecise, dy: -14},
+    {k: 'tag', i: 4.6, p: 36, text: 'OPEN', color: EM, at: K.oclOpen, size: 22, anchor: 'start'},
+    {k: 'tag', i: 4.4, p: 36, text: 'CLOSE', color: RO, at: K.oclClose - 0.3, size: 22, anchor: 'end'},
+    {k: 'ring', i: 10, p: 44, color: SKY, at: K.oclClose + 1.2},
   ],
 });
 
