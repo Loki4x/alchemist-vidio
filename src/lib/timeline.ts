@@ -10,7 +10,7 @@ const S = {
   focus: TT('MSNR bukan sekadar'),
   poi: TT('Sebelum masuk lebih jauh'),
   aoi: TT('Istilah kedua adalah AOI'),
-  outro: VO_END,
+  outro: VO_END + 0.1,
 };
 
 const methodsP1 = TT('Pertama MSNR', S.methods);
@@ -111,6 +111,11 @@ export const K = {
   ifvgPen: TT('tertembus sepenuhnya', ifvg),
   ifvgFlip: TT('berubah sifat', ifvg),
   ifvgSbr: TT('support become resistance', ifvg),
+  // closing
+  cMsnr: TT('MSNR mengajak kita', VO_END),
+  cPoint: TT('titik-titik harga yang presisi', VO_END),
+  cPoi: TT('POI dan AOI', VO_END),
+  cBye: TT('Sampai jumpa', VO_END),
   // POI type sub-cues
   aPeak: TT('titik puncak tajam', tyA),
   aLetter: TT('huruf A', tyA),
