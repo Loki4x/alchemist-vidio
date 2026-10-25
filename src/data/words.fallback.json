@@ -3542,186 +3542,161 @@
 {
 "w": "MSNR",
 "start": 327.666,
-"end": 328.225
+"end": 328.24
 },
 {
 "w": "mengajak",
-"start": 328.225,
-"end": 328.54
-},
-{
-"w": "kita",
-"start": 328.54,
+"start": 328.24,
 "end": 328.97
 },
 {
-"w": "berhenti",
+"w": "kita",
 "start": 328.97,
-"end": 329.425
+"end": 329.135
 },
 {
-"w": "menebak",
-"start": 329.425,
+"w": "berhenti",
+"start": 329.135,
 "end": 329.68
 },
 {
-"w": "area",
+"w": "menebak",
 "start": 329.68,
-"end": 330.18
+"end": 330.2
+},
+{
+"w": "area",
+"start": 330.2,
+"end": 330.645
 },
 {
 "w": "yang",
-"start": 330.18,
-"end": 330.27
+"start": 330.645,
+"end": 330.855
 },
 {
 "w": "lebar",
-"start": 330.27,
-"end": 330.6
-},
-{
-"w": "dan",
-"start": 330.6,
-"end": 330.69
-},
-{
-"w": "mulai",
-"start": 330.69,
-"end": 330.865
-},
-{
-"w": "fokus",
-"start": 330.865,
+"start": 330.855,
 "end": 331.169
 },
 {
-"w": "pada",
+"w": "dan",
 "start": 331.29,
-"end": 331.655
+"end": 331.46
 },
 {
-"w": "titik-titik",
-"start": 331.655,
+"w": "mulai",
+"start": 331.46,
+"end": 331.895
+},
+{
+"w": "fokus",
+"start": 331.895,
 "end": 332.095
 },
 {
-"w": "harga",
+"w": "pada",
 "start": 332.095,
 "end": 332.615
 },
 {
-"w": "yang",
+"w": "titik-titik",
 "start": 332.615,
-"end": 332.705
+"end": 333.18
 },
 {
-"w": "presisi.",
-"start": 332.705,
-"end": 333.165
-},
-{
-"w": "Pahami",
-"start": 333.165,
+"w": "harga",
+"start": 333.18,
 "end": 333.65
 },
 {
-"w": "dulu",
+"w": "yang",
 "start": 333.65,
 "end": 333.74
 },
 {
-"w": "POI",
+"w": "presisi.",
 "start": 333.74,
 "end": 334.294
 },
 {
-"w": "dan",
+"w": "Pahami",
 "start": 334.601,
-"end": 334.79
+"end": 334.945
+},
+{
+"w": "dulu",
+"start": 334.945,
+"end": 335.27
+},
+{
+"w": "POI",
+"start": 335.27,
+"end": 336.0
+},
+{
+"w": "dan",
+"start": 336.0,
+"end": 336.09
 },
 {
 "w": "AOI",
-"start": 334.79,
-"end": 335.26
+"start": 336.09,
+"end": 336.575
 },
 {
 "w": "beserta",
-"start": 335.26,
-"end": 335.625
+"start": 336.575,
+"end": 336.905
 },
 {
 "w": "jenis-jenisnya,",
-"start": 335.625,
-"end": 336.35
-},
-{
-"w": "karena",
-"start": 336.35,
-"end": 336.89
-},
-{
-"w": "itulah",
-"start": 336.89,
-"end": 337.32
-},
-{
-"w": "fondasi",
-"start": 337.32,
+"start": 336.905,
 "end": 337.798
 },
 {
-"w": "untuk",
+"w": "karena",
 "start": 338.069,
-"end": 338.415
+"end": 338.425
 },
 {
-"w": "membaca",
-"start": 338.415,
-"end": 338.805
-},
-{
-"w": "pasar",
-"start": 338.805,
+"w": "itulah",
+"start": 338.425,
 "end": 338.96
 },
 {
-"w": "dengan",
+"w": "fondasi",
 "start": 338.96,
-"end": 339.405
-},
-{
-"w": "lebih",
-"start": 339.405,
 "end": 339.685
 },
 {
-"w": "tajam.",
+"w": "untuk",
 "start": 339.685,
-"end": 340.075
+"end": 339.9
 },
 {
-"w": "Sampai",
-"start": 340.075,
-"end": 340.225
+"w": "membaca",
+"start": 339.9,
+"end": 340.42
 },
 {
-"w": "jumpa",
-"start": 340.225,
-"end": 340.575
-},
-{
-"w": "di",
-"start": 340.575,
+"w": "pasar",
+"start": 340.42,
 "end": 340.69
 },
 {
-"w": "materi",
+"w": "dengan",
 "start": 340.69,
-"end": 341.145
+"end": 341.025
 },
 {
-"w": "berikutnya!",
-"start": 341.145,
+"w": "lebih",
+"start": 341.025,
+"end": 341.44
+},
+{
+"w": "tajam.",
+"start": 341.44,
 "end": 341.734
 }
 ]

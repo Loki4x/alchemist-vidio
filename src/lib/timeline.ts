@@ -115,7 +115,7 @@ export const K = {
   cMsnr: TT('MSNR mengajak kita', S.outro),
   cPoint: TT('titik-titik harga yang presisi', S.outro),
   cPoi: TT('POI dan AOI', S.outro),
-  cBye: TT('Sampai jumpa', S.outro),
+  cRead: TT('membaca pasar dengan lebih tajam', S.outro),
   // POI type sub-cues
   aPeak: TT('titik puncak tajam', tyA),
   aLetter: TT('huruf A', tyA),

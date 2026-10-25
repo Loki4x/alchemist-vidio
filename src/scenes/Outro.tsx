@@ -40,10 +40,7 @@ export const Outro: React.FC = () => {
           <div style={{fontFamily: SANS, fontWeight: 700, fontSize: 32, color: C.mut}}>= fondasi membaca pasar</div>
         </Rise>
       </div>
-      <Pop at={K.cBye} style={{position: 'absolute', left: 0, right: 0, top: 690, display: 'flex', justifyContent: 'center'}}>
-        <div style={{fontFamily: SANS, fontWeight: 800, fontSize: 60, color: C.em, textShadow: `0 0 50px ${rgba(C.em, 0.4)}`}}>Sampai jumpa di materi berikutnya!</div>
-      </Pop>
-      <Rise at={K.cBye + 0.6} style={{position: 'absolute', left: 0, right: 0, top: 800, display: 'flex', justifyContent: 'center'}}>
+      <Rise at={K.cRead + 0.4} style={{position: 'absolute', left: 0, right: 0, top: 720, display: 'flex', justifyContent: 'center'}}>
         <div style={{padding: '14px 32px', borderRadius: 18, border: `2px solid ${C.am}`, background: rgba(C.am, 0.1), fontFamily: SANS, fontWeight: 600, fontSize: 27, color: C.txt, textAlign: 'center'}}>
           Konten edukasi, bukan saran investasi. Selalu terapkan manajemen risiko.
         </div>
